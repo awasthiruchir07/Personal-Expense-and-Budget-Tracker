@@ -52,7 +52,7 @@ Avoiding errors due to wrong inputs.
 Simple graphs using matplotlib.
 
 - Data Processing :
-  1. Adding/Deleting of Enteries
+  1. Adding/Deleting of Entries
   2. Total of all the Expenses Made
   3. Categories of Expenses 
   4. Expenses Divided by Months 
