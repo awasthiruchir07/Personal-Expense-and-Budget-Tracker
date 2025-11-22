@@ -1,4 +1,4 @@
-## Personal-Expense-and-Budget-Tracker
+## Personal Expense and Budget Tracker
 
 A simple, beginner-friendly 12th-grade Python project that helps users record, view, delete, and analyze daily expenses.
 The program uses a CSV file to store entries and includes optional matplotlib graphs for category-wise and monthly summaries.
